@@ -12,7 +12,7 @@ Given array of sequent numbers 0,1,2,3...N with missing member
 Function finds a first missing number occurrence in the sequence.
 
 
-### Example:**
+### Example:
 
 **Input:** [5,0,1,3,2]  
 **Output:** 4
